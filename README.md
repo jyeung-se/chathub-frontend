@@ -11,3 +11,4 @@ npm run dev
 
 -------------------------
 
+Login using username "Demo" to see some premade group chat interactions.
